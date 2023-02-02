@@ -1,0 +1,7 @@
+nums = []
+num = int(input())
+for num > 0:
+  nums.append(num)
+  num = int(input())
+  
+print(nums)
